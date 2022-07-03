@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cesarocampos" alt="cesarocampos" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/CamposCesarO" target="blank"><img src="https://img.shields.io/twitter/follow/landocc2?logo=twitter&style=for-the-badge" alt="landocc2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/CamposCesarO" target="blank"><img src="https://img.shields.io/twitter/follow/CamposCesarO?logo=twitter&style=for-the-badge" alt="CamposCesarO" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://cesarocampos.github.io/PersonalPortfolioRJS/](https://cesarocampos.github.io/PersonalPortfolioRJS/)
 
