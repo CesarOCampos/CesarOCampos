@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cesarocampos&label=Profile%20views&color=0e75b6&style=flat" alt="cesarocampos" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cesarocampos" alt="cesarocampos" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.sigma-five.vercel.app/?username=cesarocampos" alt="cesarocampos" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/camposcesaro" target="blank"><img src="https://img.shields.io/twitter/follow/camposcesaro?logo=twitter&style=for-the-badge" alt="camposcesaro" /></a> </p>
 
